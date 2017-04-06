@@ -6,7 +6,7 @@ Create a new project with supporting scalafmt using giter8:
 ## preparing
 
 ```sh
-$brew install giter8
+$ brew install giter8
 ```
 
 ## usage
