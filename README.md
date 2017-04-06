@@ -1,7 +1,7 @@
 # A Giter8 template for sbt with scalafmt.
 
-Create a new project with supporting scalafmt using giter8:
-(Support Formatting on Compile)
+Create a new project with supporting scalafmt(formatting on compile)
+ using giter8:
 
 ## preparing
 
